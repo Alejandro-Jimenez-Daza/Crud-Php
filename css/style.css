@@ -1,0 +1,6 @@
+
+#titulo-head {
+    font-size: 32px; /* Tamaño de la fuente reducido */
+    white-space: nowrap; /* Evita el salto de línea */
+    font-weight: 600;
+}
